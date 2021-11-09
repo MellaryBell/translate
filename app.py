@@ -1,7 +1,6 @@
 import requests
 import os
-import uuidhttps://github.com/MellaryBell/translate/blob/main/app.py
-import json
+import uuid
 from dotenv import load_dotenv
 load_dotenv()
 from flask import Flask,render_template, request
